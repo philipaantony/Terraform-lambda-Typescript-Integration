@@ -1,5 +1,5 @@
 # Ignore Node.js modules
-node_modules/
-dist/
-package/*/node_modules/
+/node_modules
+/dist
+package/node_modules
 terraform/.terraform
