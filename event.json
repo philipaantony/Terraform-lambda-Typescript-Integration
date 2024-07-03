@@ -1,0 +1,41 @@
+{
+    "resource": "/",
+    "path": "/",
+    "httpMethod": "GET",
+    "headers": null,
+    "queryStringParameters": null,
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+      "resourceId": "123456",
+      "resourcePath": "/",
+      "httpMethod": "GET",
+      "extendedRequestId": "request-id",
+      "requestTime": "31/Mar/2020:12:00:00 +0000",
+      "path": "/",
+      "accountId": "123456789012",
+      "protocol": "HTTP/1.1",
+      "stage": "dev",
+      "domainPrefix": "api",
+      "requestTimeEpoch": 1585650000000,
+      "requestId": "c3f7fb44-52a2-4e9c-b8b3-5b77c5c526f6",
+      "identity": {
+        "cognitoIdentityPoolId": null,
+        "accountId": null,
+        "cognitoIdentityId": null,
+        "caller": null,
+        "sourceIp": "127.0.0.1",
+        "principalOrgId": null,
+        "accessKey": null,
+        "cognitoAuthenticationType": null,
+        "cognitoAuthenticationProvider": null,
+        "userArn": null,
+        "userAgent": "Custom User Agent String",
+        "user": null
+      },
+      "apiId": "1234567890"
+    },
+    "body": null,
+    "isBase64Encoded": false
+  }
+  
